@@ -1,0 +1,169 @@
+2020-04-21 07:04:32.289 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 5712 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 07:04:32.291 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 07:04:34.496 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 07:04:34.515 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 07:04:34.517 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 07:04:34.517 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 07:04:34.521 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 07:04:34.522 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 07:04:34.522 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 07:04:34.528 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 07:04:34.688 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 07:04:34.689 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2277 ms
+2020-04-21 07:04:35.060 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 07:04:35.594 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 07:04:35.686 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 07:04:35.694 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 4.075 seconds (JVM running for 6.613)
+2020-04-21 07:05:39.101 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-21 07:05:39.101 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-21 07:05:39.110 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-04-21 07:05:41.410 INFO  com.baidu.aip.client.BaseClient - get access_token success. current state: STATE_AIP_AUTH_OK
+2020-04-21 11:32:43.976 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 13976 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 11:32:43.985 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 11:32:45.714 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 11:32:45.724 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 11:32:45.725 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 11:32:45.725 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 11:32:45.727 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 11:32:45.727 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 11:32:45.727 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 11:32:45.731 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 11:32:45.886 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 11:32:45.886 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1770 ms
+2020-04-21 11:32:46.099 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 11:32:46.447 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 11:32:46.481 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 11:32:46.486 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 3.188 seconds (JVM running for 6.189)
+2020-04-21 13:06:13.050 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 13992 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 13:06:13.053 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 13:06:18.333 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 13:06:18.351 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 13:06:18.352 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 13:06:18.353 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 13:06:18.356 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 13:06:18.356 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 13:06:18.356 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 13:06:18.382 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 13:06:19.250 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 13:06:19.250 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6015 ms
+2020-04-21 13:06:19.562 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 13:06:19.874 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 13:06:19.939 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 13:06:20.004 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 7.835 seconds (JVM running for 11.776)
+2020-04-21 15:21:07.521 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 17548 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 15:21:07.525 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 15:21:09.700 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 15:21:09.713 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:21:09.714 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 15:21:09.715 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 15:21:09.717 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 15:21:09.717 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 15:21:09.718 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 15:21:09.732 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 15:21:09.906 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 15:21:09.906 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2225 ms
+2020-04-21 15:21:10.260 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 15:21:10.542 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:21:10.650 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 15:21:10.658 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 3.966 seconds (JVM running for 7.878)
+2020-04-21 15:21:43.578 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-21 15:21:43.578 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-21 15:21:43.586 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-04-21 15:23:24.316 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 19028 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 15:23:24.319 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 15:23:26.155 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 15:23:26.171 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:23:26.172 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 15:23:26.173 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 15:23:26.177 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 15:23:26.177 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 15:23:26.177 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 15:23:26.184 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 15:23:26.339 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 15:23:26.340 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1893 ms
+2020-04-21 15:23:26.729 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 15:23:27.418 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:23:27.508 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 15:23:27.518 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 3.841 seconds (JVM running for 6.936)
+2020-04-21 15:23:35.780 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-21 15:23:35.780 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-21 15:23:35.787 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-21 15:27:49.776 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 16980 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 15:27:49.780 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 15:27:52.183 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 15:27:52.208 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:27:52.209 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 15:27:52.210 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 15:27:52.214 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 15:27:52.215 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 15:27:52.215 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 15:27:52.222 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 15:27:52.420 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 15:27:52.421 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2466 ms
+2020-04-21 15:27:52.916 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 15:27:53.757 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:27:53.795 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 15:27:53.805 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 4.714 seconds (JVM running for 7.82)
+2020-04-21 15:28:04.317 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-21 15:28:04.317 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-21 15:28:04.325 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-04-21 15:29:05.989 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 19896 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 15:29:05.991 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 15:29:07.901 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 15:29:07.913 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:29:07.914 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 15:29:07.914 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 15:29:07.917 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 15:29:07.917 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 15:29:07.917 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 15:29:07.927 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 15:29:08.092 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 15:29:08.092 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1896 ms
+2020-04-21 15:29:08.493 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 15:29:09.297 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:29:09.369 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 15:29:09.375 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 4.127 seconds (JVM running for 7.055)
+2020-04-21 15:29:13.024 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-21 15:29:13.024 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-21 15:29:13.034 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-04-21 15:30:23.649 INFO  com.wechat.WeChatApplication - Starting WeChatApplication on DESKTOP-25OVF36 with PID 7044 (E:\Code\Intellij IDEA\wechat_1\target\classes started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 15:30:23.651 INFO  com.wechat.WeChatApplication - No active profile set, falling back to default profiles: default
+2020-04-21 15:30:27.735 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-21 15:30:27.776 INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:30:27.779 INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-21 15:30:27.784 INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-21 15:30:27.794 INFO  org.apache.catalina.core.AprLifecycleListener - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-04-21 15:30:27.801 INFO  org.apache.catalina.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-04-21 15:30:27.801 INFO  org.apache.catalina.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-04-21 15:30:27.815 INFO  org.apache.catalina.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-04-21 15:30:28.211 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-21 15:30:28.211 INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4460 ms
+2020-04-21 15:30:29.126 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 15:30:29.670 INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-04-21 15:30:29.860 INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-21 15:30:29.938 INFO  com.wechat.WeChatApplication - Started WeChatApplication in 7.78 seconds (JVM running for 13.132)
+2020-04-21 15:30:40.107 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-21 15:30:40.108 INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-21 15:30:40.119 INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+2020-04-21 15:58:36.258 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.wechat.WechatApplicationTests], using SpringBootContextLoader
+2020-04-21 15:58:36.268 INFO  org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.wechat.WechatApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2020-04-21 15:58:36.270 INFO  org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.wechat.WechatApplicationTests]: WechatApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2020-04-21 15:58:36.528 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.wechat.WeChatApplication for test class com.wechat.WechatApplicationTests
+2020-04-21 15:58:36.708 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2020-04-21 15:58:36.727 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2bec854f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@31edaa7d, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@26adfd2d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3336e6b6, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7c3fdb62, org.springframework.test.context.event.EventPublishingTestExecutionListener@205d38da, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6950ed69, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6dd7b5a3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6f3187b0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2663e964, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@48b67364]
+2020-04-21 15:58:37.603 INFO  com.wechat.WechatApplicationTests - Starting WechatApplicationTests on DESKTOP-25OVF36 with PID 21184 (started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 15:58:37.620 INFO  com.wechat.WechatApplicationTests - No active profile set, falling back to default profiles: default
+2020-04-21 15:58:41.790 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 15:58:43.432 INFO  com.wechat.WechatApplicationTests - Started WechatApplicationTests in 6.593 seconds (JVM running for 10.174)
+2020-04-21 15:58:48.291 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-21 16:01:13.493 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.wechat.WechatApplicationTests], using SpringBootContextLoader
+2020-04-21 16:01:13.504 INFO  org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.wechat.WechatApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2020-04-21 16:01:13.505 INFO  org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.wechat.WechatApplicationTests]: WechatApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2020-04-21 16:01:13.745 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.wechat.WeChatApplication for test class com.wechat.WechatApplicationTests
+2020-04-21 16:01:13.928 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2020-04-21 16:01:13.969 INFO  org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2bec854f, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@31edaa7d, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@26adfd2d, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3336e6b6, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7c3fdb62, org.springframework.test.context.event.EventPublishingTestExecutionListener@205d38da, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6950ed69, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6dd7b5a3, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6f3187b0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2663e964, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@48b67364]
+2020-04-21 16:01:14.802 INFO  com.wechat.WechatApplicationTests - Starting WechatApplicationTests on DESKTOP-25OVF36 with PID 20980 (started by zeqin in E:\Code\Intellij IDEA\wechat_1)
+2020-04-21 16:01:14.806 INFO  com.wechat.WechatApplicationTests - No active profile set, falling back to default profiles: default
+2020-04-21 16:01:20.178 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-21 16:01:21.426 INFO  com.wechat.WechatApplicationTests - Started WechatApplicationTests in 7.321 seconds (JVM running for 10.054)
+2020-04-21 16:01:27.919 INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
